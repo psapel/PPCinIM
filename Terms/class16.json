@@ -1,0 +1,22 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/plasticsGranulate",
+    "preferred_name": "plastics granulate",
+    "synonymous_name": null,
+    "short_name": "@PLAS",
+    "version_number": 1,
+    "revision_number": 1,
+    "class_type": null,
+    "definition": "Raw material for the injection molding process.",
+    "source_document_of_definition": "<eigene>",
+    "note": null,
+    "remark": null,
+    "Superclass": "http://www.iop.rwth-aachen.de/PPC/1/1/rawMaterial",
+    "Higher level classes": "http://www.iop.rwth-aachen.de/PPC/1/1/part",
+    "properties": "http://www.iop.rwth-aachen.de/IM/1/1/chemicalLetter\nhttp://www.iop.rwth-aachen.de/IM/1/1/resinForm\nhttp://www.iop.rwth-aachen.de/IM/1/1/particleSize\nhttp://www.iop.rwth-aachen.de/IM/1/1/particleShape\nhttp://www.iop.rwth-aachen.de/IM/1/1/particleSizeDistribution\nhttp://www.iop.rwth-aachen.de/IM/1/1/freeFlowingProperty\nhttp://www.iop.rwth-aachen.de/IM/1/1/compactedApparentDensity\nhttp://www.iop.rwth-aachen.de/IM/1/1/apparentDensity\nhttp://www.iop.rwth-aachen.de/IM/1/1/plannedDryingLevel\nhttp://www.iop.rwth-aachen.de/IM/1/1/actualDryingLevel\nhttp://www.iop.rwth-aachen.de/IM/1/1/dryingTime\nhttp://www.iop.rwth-aachen.de/IM/1/1/dryingTemperatureMax\nhttp://www.iop.rwth-aachen.de/PPC/1/1/temperature\nhttp://www.iop.rwth-aachen.de/IM/1/1/residenceTime\nhttp://www.iop.rwth-aachen.de/IM/1/1/isRecyclate",
+    "Inherited properties": "http://www.iop.rwth-aachen.de/PPC/1/1/partId\nhttp://www.iop.rwth-aachen.de/PPC/1/1/name\nhttp://www.iop.rwth-aachen.de/PPC/1/1/alternativeName\nhttp://www.iop.rwth-aachen.de/PPC/1/1/baseQuantityUnit\nhttp://www.iop.rwth-aachen.de/PPC/1/1/netWeight\nhttp://www.iop.rwth-aachen.de/PPC/1/1/isCoProduct\nhttp://www.iop.rwth-aachen.de/PPC/1/1/status\nhttp://www.iop.rwth-aachen.de/PPC/1/1/replenishmentTime\nhttp://www.iop.rwth-aachen.de/PPC/1/1/vendorId\nhttp://www.iop.rwth-aachen.de/PPC/1/1/vendorName\nhttp://www.iop.rwth-aachen.de/PPC/1/1/tradeName\nhttp://www.iop.rwth-aachen.de/PPC/1/1/unitPrice",
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

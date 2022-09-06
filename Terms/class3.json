@@ -1,0 +1,22 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/conveyor",
+    "preferred_name": "conveyor",
+    "synonymous_name": null,
+    "short_name": "@CONV",
+    "version_number": 1,
+    "revision_number": 1,
+    "class_type": null,
+    "definition": "A device following a fixed route that has the capability of moving material between points in a facility. This device commonly is used when there is a high volume of low along the route.",
+    "source_document_of_definition": "APICS Dictionary, 13 ed., 2010, ISBN: 9780615394411",
+    "note": null,
+    "remark": null,
+    "Superclass": "http://www.iop.rwth-aachen.de/PPC/1/1/technicalAsset",
+    "Higher level classes": null,
+    "properties": "http://www.iop.rwth-aachen.de/PPC/1/1/conveyorId\nhttp://www.iop.rwth-aachen.de/PPC/1/1/convType\nhttp://www.iop.rwth-aachen.de/IM/1/1/resinForm\nhttp://www.iop.rwth-aachen.de/PPC/1/1/chargeState\nhttp://www.iop.rwth-aachen.de/PPC/1/1/transportVolumeMax\nhttp://www.iop.rwth-aachen.de/PPC/1/1/throughput",
+    "Inherited properties": "http://www.iop.rwth-aachen.de/PPC/1/1/name\nhttp://www.iop.rwth-aachen.de/PPC/1/1/manufacturer\nhttp://www.iop.rwth-aachen.de/PPC/1/1/yearOfConstruction\nhttp://www.iop.rwth-aachen.de/PPC/1/1/locationName\nhttp://www.iop.rwth-aachen.de/PPC/1/1/MTTF\nhttp://www.iop.rwth-aachen.de/PPC/1/1/MTTR\nhttp://www.iop.rwth-aachen.de/PPC/1/1/grossCapacity\nhttp://www.iop.rwth-aachen.de/PPC/1/1/overallEquipmentEfficency\nhttp://www.iop.rwth-aachen.de/PPC/1/1/hourlyRate\nhttp://www.iop.rwth-aachen.de/PPC/1/1/statusTA",
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

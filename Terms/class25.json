@@ -1,0 +1,22 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/storage",
+    "preferred_name": "storage",
+    "synonymous_name": "storage zone",
+    "short_name": "@STRG",
+    "version_number": 1,
+    "revision_number": 1,
+    "class_type": null,
+    "definition": "Designated physical space and/or equipment dedicated to the storage of materials and/or equipment.",
+    "source_document_of_definition": "IEC 62264-1",
+    "note": null,
+    "remark": null,
+    "Superclass": null,
+    "Higher level classes": null,
+    "properties": "http://www.iop.rwth-aachen.de/PPC/1/1/storageId\nhttp://www.iop.rwth-aachen.de/PPC/1/1/name\nhttp://www.iop.rwth-aachen.de/PPC/1/1/storageType\nhttp://www.iop.rwth-aachen.de/PPC/1/1/capacityMax\nhttp://www.iop.rwth-aachen.de/PPC/1/1/currentLoad\nhttp://www.iop.rwth-aachen.de/PPC/1/1/temperature\nhttp://www.iop.rwth-aachen.de/PPC/1/1/humidity\nhttp://www.iop.rwth-aachen.de/PPC/1/1/barometricPressure",
+    "Inherited properties": null,
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

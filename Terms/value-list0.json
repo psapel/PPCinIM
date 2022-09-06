@@ -1,0 +1,21 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumPOStatus",
+    "preferred_name": "production order status",
+    "synonymous_name": null,
+    "short_name": "@STPO",
+    "version_number": 1,
+    "revision_number": 1,
+    "Enumerated list of terms": "http://www.iop.rwth-aachen.de/PPC/1/1/released\nhttp://www.iop.rwth-aachen.de/PPC/1/1/materialAvailabilityNotChecked\nhttp://www.iop.rwth-aachen.de/PPC/1/1/materialNotAvailable\nhttp://www.iop.rwth-aachen.de/PPC/1/1/materialConfirmed\nhttp://www.iop.rwth-aachen.de/PPC/1/1/productionDocumentsFetched\nhttp://www.iop.rwth-aachen.de/PPC/1/1/goodsMovementOccured\nhttp://www.iop.rwth-aachen.de/PPC/1/1/partlyConfirmed\nhttp://www.iop.rwth-aachen.de/PPC/1/1/fullyConfirmed\nhttp://www.iop.rwth-aachen.de/PPC/1/1/partlyDelivered\nhttp://www.iop.rwth-aachen.de/PPC/1/1/fullyDeliverd",
+    "Enumeration code list": "RLSD\nMANC\nMANA\nMACF\nDOC\nGDMV\nPTCF\nFUCF\nPTDL\nFUDL",
+    "Applicable properties": "http://www.iop.rwth-aachen.de/PPC/1/1/poStatus",
+    "definition": null,
+    "source_document_of_definition": null,
+    "note": null,
+    "remark": null,
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/productionOrder",
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

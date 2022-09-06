@@ -1,0 +1,21 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumConvType",
+    "preferred_name": "conveyor type",
+    "synonymous_name": null,
+    "short_name": "@TYCO",
+    "version_number": 1,
+    "revision_number": 1,
+    "Enumerated list of terms": "http://www.iop.rwth-aachen.de/IM/1/1/screw\nhttp://www.iop.rwth-aachen.de/IM/1/1/multiStage\nhttp://www.iop.rwth-aachen.de/IM/1/1/continiousPressurePneumatic\nhttp://www.iop.rwth-aachen.de/IM/1/1/discontiniousPressurePneumatic\nhttp://www.iop.rwth-aachen.de/IM/1/1/continiousSuction\nhttp://www.iop.rwth-aachen.de/IM/1/1/discontiniousSuction",
+    "Enumeration code list": "SCRW\nMSTG\nCOPP\nDIPP\nCOSU\nDISU",
+    "Applicable properties": "http://www.iop.rwth-aachen.de/PPC/1/1/convType",
+    "definition": null,
+    "source_document_of_definition": null,
+    "note": null,
+    "remark": null,
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/conveyor",
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

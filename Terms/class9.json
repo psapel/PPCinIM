@@ -1,0 +1,22 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/mold",
+    "preferred_name": "mold",
+    "synonymous_name": null,
+    "short_name": "@MOLD",
+    "version_number": 1,
+    "revision_number": 1,
+    "class_type": null,
+    "definition": "Consist mostly of metal, a mold is the negative form of the part to be molded. ",
+    "source_document_of_definition": "<eigene>",
+    "note": null,
+    "remark": null,
+    "Superclass": "http://www.iop.rwth-aachen.de/PPC/1/1/technicalAsset",
+    "Higher level classes": null,
+    "properties": "http://www.iop.rwth-aachen.de/IM/1/1/moldId\nhttp://www.iop.rwth-aachen.de/IM/1/1/moldDepth\nhttp://www.iop.rwth-aachen.de/IM/1/1/moldHeight\nhttp://www.iop.rwth-aachen.de/IM/1/1/moldWidth\nhttp://www.iop.rwth-aachen.de/IM/1/1/moldInsertDepth\nhttp://www.iop.rwth-aachen.de/IM/1/1/moldInsertHeight\nhttp://www.iop.rwth-aachen.de/IM/1/1/moldInsertWidth\nhttp://www.iop.rwth-aachen.de/IM/1/1/adapterType\nhttp://www.iop.rwth-aachen.de/IM/1/1/numberOfCavities\nhttp://www.iop.rwth-aachen.de/IM/1/1/numberOfSensorHoles\nhttp://www.iop.rwth-aachen.de/IM/1/1/numberOfClosedLoops\nhttp://www.iop.rwth-aachen.de/IM/1/1/coolant\nhttp://www.iop.rwth-aachen.de/IM/1/1/ejectorForce\nhttp://www.iop.rwth-aachen.de/IM/1/1/storageLocation\nhttp://www.iop.rwth-aachen.de/IM/1/1/status",
+    "Inherited properties": "http://www.iop.rwth-aachen.de/PPC/1/1/name\nhttp://www.iop.rwth-aachen.de/PPC/1/1/manufacturer\nhttp://www.iop.rwth-aachen.de/PPC/1/1/yearOfConstruction\nhttp://www.iop.rwth-aachen.de/PPC/1/1/locationName\nhttp://www.iop.rwth-aachen.de/PPC/1/1/MTTF\nhttp://www.iop.rwth-aachen.de/PPC/1/1/MTTR\nhttp://www.iop.rwth-aachen.de/PPC/1/1/grossCapacity\nhttp://www.iop.rwth-aachen.de/PPC/1/1/overallEquipmentEfficency\nhttp://www.iop.rwth-aachen.de/PPC/1/1/hourlyRate\nhttp://www.iop.rwth-aachen.de/PPC/1/1/statusTA",
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

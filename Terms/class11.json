@@ -1,0 +1,22 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/operation",
+    "preferred_name": "operation",
+    "synonymous_name": null,
+    "short_name": "@OP",
+    "version_number": 1,
+    "revision_number": 1,
+    "class_type": null,
+    "definition": "The activities of manufacturing operations management are those activities of a manufacturing facility that coordinate the personnel, equipment, material and energy in the conversion of raw materials and/or parts into products. Manufacturing operations management includes activities that may be performed by physical equipment, human effort and information systems.",
+    "source_document_of_definition": "IEC 62264-1",
+    "note": null,
+    "remark": null,
+    "Superclass": null,
+    "Higher level classes": null,
+    "properties": "http://www.iop.rwth-aachen.de/PPC/1/1/operationId\nhttp://www.iop.rwth-aachen.de/PPC/1/1/plannedStartDate\nhttp://www.iop.rwth-aachen.de/PPC/1/1/actualStartDate\nhttp://www.iop.rwth-aachen.de/PPC/1/1/plannedEndDate\nhttp://www.iop.rwth-aachen.de/PPC/1/1/actualEndDate\nhttp://www.iop.rwth-aachen.de/PPC/1/1/plannedDuration\nhttp://www.iop.rwth-aachen.de/PPC/1/1/actualDuration\nhttp://www.iop.rwth-aachen.de/PPC/1/1/internalDesitnation\nhttp://www.iop.rwth-aachen.de/PPC/1/1/leadTime\nhttp://www.iop.rwth-aachen.de/PPC/1/1/setupTime\nhttp://www.iop.rwth-aachen.de/PPC/1/1/shutdownTime\nhttp://www.iop.rwth-aachen.de/PPC/1/1/personalTime\nhttp://www.iop.rwth-aachen.de/PPC/1/1/operationTime\nhttp://www.iop.rwth-aachen.de/PPC/1/1/waitTime\nhttp://www.iop.rwth-aachen.de/PPC/1/1/safetyTime\nhttp://www.iop.rwth-aachen.de/PPC/1/1/reqQualificationLevel\nhttp://www.iop.rwth-aachen.de/PPC/1/1/statusOp",
+    "Inherited properties": null,
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}

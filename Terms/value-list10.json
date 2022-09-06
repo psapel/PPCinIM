@@ -1,0 +1,21 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumResForm",
+    "preferred_name": "resin form",
+    "synonymous_name": null,
+    "short_name": "@FORE",
+    "version_number": 1,
+    "revision_number": 1,
+    "Enumerated list of terms": "http://www.iop.rwth-aachen.de/IM/1/1/granules\nhttp://www.iop.rwth-aachen.de/IM/1/1/powder\nhttp://www.iop.rwth-aachen.de/IM/1/1/flakes\nhttp://www.iop.rwth-aachen.de/IM/1/1/liquid\nhttp://www.iop.rwth-aachen.de/IM/1/1/tape",
+    "Enumeration code list": "GRNL\nPWDR\nFLKS\nLQID\nTAPE",
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/resinForm",
+    "definition": null,
+    "source_document_of_definition": null,
+    "note": null,
+    "remark": null,
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/conveyor\nhttp://www.iop.rwth-aachen.de/PPC/1/1/transportContainer\nhttp://www.iop.rwth-aachen.de/PPC/1/1/plasticsGranulate",
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}
