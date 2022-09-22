@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/delivered",
+    "preferred_name": "delivered",
+    "synonymous_name": null,
+    "short_name": "@DLVD",
+    "version_number": 1,
+    "revision_number": 1,
+    "symbol": "DLVD",
+    "definition": "All articles of the sales order were delivered to the mentioned destination.",
+    "note": null,
+    "remark": null,
+    "source_document_of_definition": "<eigene>",
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/salesDocument",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumSDStatus",
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}
