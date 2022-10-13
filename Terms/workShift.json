@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/workShift",
+    "preferred_name": "work shift",
+    "synonymous_name": null,
+    "short_name": "@WSFT",
+    "version_number": 1,
+    "revision_number": 1,
+    "symbol": "WSFT",
+    "definition": "Shift Calender that specifies the shifts on a working day",
+    "note": null,
+    "remark": null,
+    "source_document_of_definition": "<eigene>",
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/shiftCalendar",
+    "enumeration_code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumShiftType",
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}
