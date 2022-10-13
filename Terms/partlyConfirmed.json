@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/partlyConfirmed",
+    "preferred_name": "partly confirmed",
+    "synonymous_name": null,
+    "short_name": "@PTCF",
+    "version_number": 1,
+    "revision_number": 1,
+    "symbol": "PTCF",
+    "definition": "The confirmation at least of one, but not all operations were made.",
+    "note": null,
+    "remark": null,
+    "source_document_of_definition": "Logistikprozesse mit SAP, 3 ed., 2011, ISBN: 9783834881199",
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/productionOrder",
+    "enumeration_code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumPOStatus",
+    "status_level": "Proposal",
+    "version_released_on": null,
+    "revision_released_on": null,
+    "obsolete_date": null,
+    "version_initiated_on": null
+}
