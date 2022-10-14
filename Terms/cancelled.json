@@ -11,7 +11,7 @@
     "note": null,
     "remark": null,
     "source_document_of_definition": "<eigene>",
-    "definition_class": ["http://www.iop.rwth-aachen.de/PPC/1/1/salesDocument",
+    "definition_classes": ["http://www.iop.rwth-aachen.de/PPC/1/1/salesDocument",
     "http://www.iop.rwth-aachen.de/PPC/1/1/operation",
     "http://www.iop.rwth-aachen.de/PPC/1/1/productionOrder"],
     "Enumeration code": ["http://www.iop.rwth-aachen.de/PPC/1/1/EnumSDStatus",

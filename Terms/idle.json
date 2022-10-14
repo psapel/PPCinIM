@@ -10,7 +10,7 @@
     "note": null,
     "remark": null,
     "source_document_of_definition": "<eigene>",
-    "definition_class": ["http://www.iop.rwth-aachen.de/PPC/1/1/person",
+    "definition_classes": ["http://www.iop.rwth-aachen.de/PPC/1/1/person",
     "http://www.iop.rwth-aachen.de/PPC/1/1/technicalAsset"],
     "enumeration_code": ["http://www.iop.rwth-aachen.de/PPC/1/1/EnumPersonStatus",
     "http://www.iop.rwth-aachen.de/PPC/1/1/EnumTecAssetStatus"],
