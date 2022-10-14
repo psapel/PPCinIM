@@ -18,7 +18,7 @@
     "http://www.iop.rwth-aachen.de/PPC/1/1/part",
     "http://www.iop.rwth-aachen.de/PPC/1/1/storage",
     "http://www.iop.rwth-aachen.de/PPC/1/1/storagePosition"],
-    "property_data _element type": "NON_DEPENDENT_P_DET",
+    "property_data _element_type": "NON_DEPENDENT_P_DET",
     "formula": null,
     "definition": "Name of the asset.",
     "source_document_of_definition": "<eigene>",

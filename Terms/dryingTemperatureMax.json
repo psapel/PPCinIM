@@ -10,7 +10,7 @@
     "data_element_type_class": "H02",
     "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/part",
     "applicable_classes": "http://www.iop.rwth-aachen.de/PPC/1/1/plasticsGranulate",
-    "roperty_data_element_type": "NON_DEPENDENT_P_DET",
+    "property_data_element_type": "NON_DEPENDENT_P_DET",
     "formula": null,
     "definition": "The maximum temperature of a plastic granulate is allowed for the drying process to avoid material damage.",
     "source_document_of_definition": "<eigene>",
