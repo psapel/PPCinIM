@@ -10,7 +10,7 @@
     "note": null,
     "remark": null,
     "source_document_of_definition": "Logistikprozesse mit SAP, 3 ed., 2011, ISBN: 9783834881199",
-    "definition_class": ["http://www.iop.rwth-aachen.de/PPC/1/1/productionOrder",
+    "definition_classes": ["http://www.iop.rwth-aachen.de/PPC/1/1/productionOrder",
                          "http://www.iop.rwth-aachen.de/PPC/1/1/salesDocument"],
     "enumeration_code": ["http://www.iop.rwth-aachen.de/PPC/1/1/EnumPOStatus",
                          "http://www.iop.rwth-aachen.de/PPC/1/1/EnumPOStatus"],

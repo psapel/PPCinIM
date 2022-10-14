@@ -14,7 +14,7 @@
     "definition_classes": ["http://www.iop.rwth-aachen.de/PPC/1/1/salesDocument",
     "http://www.iop.rwth-aachen.de/PPC/1/1/operation",
     "http://www.iop.rwth-aachen.de/PPC/1/1/productionOrder"],
-    "Enumeration code": ["http://www.iop.rwth-aachen.de/PPC/1/1/EnumSDStatus",
+    "enumeration_code": ["http://www.iop.rwth-aachen.de/PPC/1/1/EnumSDStatus",
     "http://www.iop.rwth-aachen.de/PPC/1/1/EnumOpStatus",
     "http://www.iop.rwth-aachen.de/PPC/1/1/EnumPOStatus"],
     "status_level": "Proposal",
