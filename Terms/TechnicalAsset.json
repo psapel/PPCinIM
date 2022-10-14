@@ -11,7 +11,7 @@
     "note": "IEC 62264 (and PPCinIM) addresses physical assets used in equipment roles. There are many other physical assets in an enterprise.",
     "remark": null,
     "superclass": null,
-    "higher-level_classes": null,
+    "higher_level_classes": null,
     "properties": ["http://www.iop.rwth-aachen.de/PPC/1/1/name",
     "http://www.iop.rwth-aachen.de/PPC/1/1/manufacturer",
     "http://www.iop.rwth-aachen.de/PPC/1/1/yearOfConstruction",
