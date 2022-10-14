@@ -11,7 +11,7 @@
     "note": null,
     "remark": null,
     "superclass": "http://www.iop.rwth-aachen.de/PPC/1/1/inquiry",
-    "higher_level_classes": "http://www.iop.rwth-aachen.de/PPC/1/1/salesDocument",
+    "higher-level_classes": "http://www.iop.rwth-aachen.de/PPC/1/1/salesDocument",
     "properties": ["http://www.iop.rwth-aachen.de/PPC/1/1/salesOrderId",
     "http://www.iop.rwth-aachen.de/PPC/1/1/plannedDueDate",
     "http://www.iop.rwth-aachen.de/PPC/1/1/salesPricePlanned"],

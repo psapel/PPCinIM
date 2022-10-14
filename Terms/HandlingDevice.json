@@ -11,7 +11,7 @@
     "note": null,
     "remark": null,
     "superclass": "http://www.iop.rwth-aachen.de/PPC/1/1/technicalAsset",
-    "higher_level_classes": null,
+    "higher-_level_classes": null,
     "properties": ["http://www.iop.rwth-aachen.de/PPC/1/1/deviceId",
     "http://www.iop.rwth-aachen.de/PPC/1/1/deviceType",
     "http://www.iop.rwth-aachen.de/PPC/1/1/throughput"],

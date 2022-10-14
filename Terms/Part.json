@@ -11,7 +11,7 @@
     "note": "A product can be an intermediate product or end product from a business perspective.",
     "remark": null,
     "superclass": null,
-    "higher_level_classes": null,
+    "higher-level_classes": null,
     "properties": ["http://www.iop.rwth-aachen.de/PPC/1/1/partId",
     "http://www.iop.rwth-aachen.de/PPC/1/1/name",
     "http://www.iop.rwth-aachen.de/PPC/1/1/alternativeName",

@@ -11,7 +11,7 @@
     "note": null,
     "remark": null,
     "superclass": "http://www.iop.rwth-aachen.de/PPC/1/1/part",
-    "higher_level_classes": null,
+    "higher-level_classes": null,
     "properties": ["http://www.iop.rwth-aachen.de/PPC/1/1/replenishmentTime",
     "http://www.iop.rwth-aachen.de/PPC/1/1/vendorId",
     "http://www.iop.rwth-aachen.de/PPC/1/1/vendorName",
