@@ -1,6 +1,6 @@
 {
-    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/status",
-    "preferred_name": "status",
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/lcStatus",
+    "preferred_name": "lifecycle status",
     "synonymous_name": null,
     "short_name": null,
     "version_number": 1,
