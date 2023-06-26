@@ -12,4 +12,4 @@ Created by: Patrick Sapel and Christian Hopmann, Institute for Plastics Processi
 
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy – EXC-2023 Internet of Production – 390621612.
 
-25.05.2022
+26.06.2022
