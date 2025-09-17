@@ -1,0 +1,24 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/Granules",
+    "preferred_name": "granules",
+    "synonymous_name": {},
+    "short_name": "@GRNL",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "GRNL",
+    "definition": {},
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/conveyor",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/transportContainer",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/plasticsGranulate"
+    ],
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumResForm",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

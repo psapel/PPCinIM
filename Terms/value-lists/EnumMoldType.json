@@ -1,0 +1,33 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumMoldType",
+    "preferred_name": "mold type",
+    "synonymous_name": {},
+    "short_name": "@TYMO",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/TwoPlatenMold",
+        "http://www.iop.rwth-aachen.de/IM/1/1/ThreePlatenMold",
+        "http://www.iop.rwth-aachen.de/IM/1/1/CubedMold",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TwoComponentMold",
+        "http://www.iop.rwth-aachen.de/IM/1/1/OtherMold"
+    ],
+    "Enumeration code list": [
+        "TWO",
+        "THRE",
+        "CUBE",
+        "TWCM",
+        "OTHE"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/MoldType",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

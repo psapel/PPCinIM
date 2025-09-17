@@ -1,0 +1,27 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumCorePullerMounting",
+    "preferred_name": "core puller mounting",
+    "synonymous_name": {},
+    "short_name": "@COPM",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/Linear",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Unscrew"
+    ],
+    "Enumeration code list": [
+        "LINE",
+        "UNSC"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/CorePullerMounting",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

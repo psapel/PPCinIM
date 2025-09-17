@@ -1,0 +1,33 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumTecAssetStatus",
+    "preferred_name": "technical asset status",
+    "synonymous_name": {},
+    "short_name": "@STTA",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Idle",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Blocked",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Disturbance",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Defect",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/InMaintenance"
+    ],
+    "Enumeration code list": [
+        "IDLE",
+        "BLOC",
+        "DIST",
+        "DEFC",
+        "MAIN"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/PPC/1/1/StatusTA",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/TechnicalAsset",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

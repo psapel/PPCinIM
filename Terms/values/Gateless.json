@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/Gateless",
+    "preferred_name": "Gateless",
+    "synonymous_name": {},
+    "short_name": "@LESS",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "LESS",
+    "definition": "No gate exists",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumTypeOfGate",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

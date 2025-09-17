@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/ThreePlatenDistributor",
+    "preferred_name": "Three platen distributor",
+    "synonymous_name": {},
+    "short_name": "@THRE",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "THRE",
+    "definition": "The three-platen system provides the ability to fill the parts through one or more sprues. Three-platen molds have the advantage in that molded parts and sprue spiders are ejected from two different opening areas (parting planes) of the mold. This eliminates an additional step, namely, the separation of the sprue from the molded parts",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Understanding injection molds, 2 ed., 2020, ISBN: 9781569908440",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumTypeOfGate",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

@@ -1,0 +1,27 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumCorePullerType",
+    "preferred_name": "core puller type",
+    "synonymous_name": {},
+    "short_name": "@TYCP",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/Electric",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Hydraulic"
+    ],
+    "Enumeration code list": [
+        "ELEC",
+        "HYRD"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/CorePullerType",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

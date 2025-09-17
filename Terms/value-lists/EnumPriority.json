@@ -1,0 +1,32 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumPriority",
+    "preferred_name": "priority",
+    "synonymous_name": {},
+    "short_name": "@PRIO",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Low",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Normal",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/High"
+    ],
+    "Enumeration code list": [
+        "LOW",
+        "NORM",
+        "HIGH"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/PPC/1/1/Priority",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/SalesDocument",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/ProductionOrder"
+    ],
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/Flat",
+    "preferred_name": "Flat",
+    "synonymous_name": {},
+    "short_name": "@FLAT",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "FLAT",
+    "definition": "Flat ejectors are used for ribs or narrow walls. These ejectors are also available as standard or purchased parts. The flat ejector is rectangular in cross-section and has a stepped round shaft",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Spritzgießwerkzeuge für Einsteiger, 3 ed., 2020, ISBN: 9783446467651",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumEjectorType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

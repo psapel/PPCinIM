@@ -1,0 +1,33 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/Inquiry",
+    "preferred_name": "inquiry",
+    "synonymous_name": {},
+    "short_name": "@INQ",
+    "version_number": "1",
+    "revision_number": "1",
+    "class_type": {},
+    "definition": "The first contact of a (maybe new) customer to ask if a product can be manufactured to the right date, with the right costs, to the right time, to the right time, and to the desired destination.",
+    "source_document_of_definition": "<own definition>",
+    "note": {},
+    "remark": {},
+    "Superclass": "http://www.iop.rwth-aachen.de/PPC/1/1/SalesDocument",
+    "Higher level classes": {},
+    "properties": "http://www.iop.rwth-aachen.de/PPC/1/1/InquiryId",
+    "Inherited properties": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/PartId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Quantity",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/BaseQuantityUnit",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/CustomerId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/DesiredDueDate",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Destination",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/TechnicalAttributes",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/MaxSalesPrice",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Priority",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/SdStatus"
+    ],
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

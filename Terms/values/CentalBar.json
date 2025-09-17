@@ -1,0 +1,23 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/CentalBar",
+    "preferred_name": "Cental bar",
+    "synonymous_name": {},
+    "short_name": "@CENT",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "CENT",
+    "definition": "The ejector plates are operated by a central bar",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Mold"
+    ],
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumOperationOfEjectorPlates",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

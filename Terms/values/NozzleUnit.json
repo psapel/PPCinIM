@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/NozzleUnit",
+    "preferred_name": "Nozzle unit",
+    "synonymous_name": {},
+    "short_name": "@NOZU",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "NOZU",
+    "definition": "The nozzle side is the mold half that does not move during production",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Understanding injection molds, 2 ed., 2020, ISBN: 9781569908440",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumDistributionLocationCoolant",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

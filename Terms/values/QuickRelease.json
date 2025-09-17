@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/QuickRelease",
+    "preferred_name": "Quick release",
+    "synonymous_name": {},
+    "short_name": "@QUIC",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "QUIC",
+    "definition": "The injection molding machine has a quick clamping device to clamp the mold",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumMoldClampingSystem",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

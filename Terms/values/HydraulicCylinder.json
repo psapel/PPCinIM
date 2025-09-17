@@ -1,0 +1,23 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/HydraulicCylinder",
+    "preferred_name": "Hydraulic cylinder",
+    "synonymous_name": {},
+    "short_name": "@HYCY",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "HYCY",
+    "definition": "In the case of hydraulic machines, there is a dedicated hydraulic cylinder that provides for the movement of the ejector system via an ejector pin",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Spritzgießwerkzeuge : Auslegung, Bau, Anwendung , 7. ed, 2018, ISBN: 9783446453906",
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Mold"
+    ],
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumOperationOfEjectorPlates",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

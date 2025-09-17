@@ -1,0 +1,23 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/OtherProtocol",
+    "preferred_name": "Other Protocol",
+    "synonymous_name": {},
+    "short_name": "@OTHE",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "OTHE",
+    "definition": "Another type of communication protocol",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TemperatureControlDevice"
+    ],
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumCommunicationProtocolType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

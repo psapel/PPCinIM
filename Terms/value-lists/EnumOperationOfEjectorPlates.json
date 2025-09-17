@@ -1,0 +1,40 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumOperationOfEjectorPlates",
+    "preferred_name": "operation of ejector plates",
+    "synonymous_name": {},
+    "short_name": "@OPEP",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/Electric",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Hydraulic",
+        "http://www.iop.rwth-aachen.de/IM/1/1/CentalBar",
+        "http://www.iop.rwth-aachen.de/IM/1/1/CentralUnitWithSpring",
+        "http://www.iop.rwth-aachen.de/IM/1/1/AdditionalBars",
+        "http://www.iop.rwth-aachen.de/IM/1/1/HydraulicCylinder",
+        "http://www.iop.rwth-aachen.de/IM/1/1/OtherOperationOfEjectorPlates"
+    ],
+    "Enumeration code list": [
+        "ELEC",
+        "HYRD",
+        "CENT",
+        "CNSP",
+        "ADDI",
+        "HYCY",
+        "OTHE"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/OperationOfEjectorPlates",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Mold"
+    ],
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

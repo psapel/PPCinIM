@@ -1,0 +1,43 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumTypeOfGate",
+    "preferred_name": "type of gate",
+    "synonymous_name": {},
+    "short_name": "@TYGT",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/DirectGate",
+        "http://www.iop.rwth-aachen.de/IM/1/1/FilmGate",
+        "http://www.iop.rwth-aachen.de/IM/1/1/RingGate",
+        "http://www.iop.rwth-aachen.de/IM/1/1/UmbrellaGate",
+        "http://www.iop.rwth-aachen.de/IM/1/1/SprueGate",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TunnelGate",
+        "http://www.iop.rwth-aachen.de/IM/1/1/ThreePlatenDistributor",
+        "http://www.iop.rwth-aachen.de/IM/1/1/PinpointGate",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Gateless",
+        "http://www.iop.rwth-aachen.de/IM/1/1/InsulatedRunnerFeedSystem"
+    ],
+    "Enumeration code list": [
+        "DIRC",
+        "FILM",
+        "RING",
+        "UMBR",
+        "SPRU",
+        "TUNN",
+        "THRE",
+        "PINP",
+        "LESS",
+        "INLT"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/TypeOfGate",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

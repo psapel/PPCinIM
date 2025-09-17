@@ -1,0 +1,35 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumMoldClampingSystem",
+    "preferred_name": "mold clamping system",
+    "synonymous_name": {},
+    "short_name": "@MCLP",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/DirectClamping",
+        "http://www.iop.rwth-aachen.de/IM/1/1/QuickRelease",
+        "http://www.iop.rwth-aachen.de/IM/1/1/PlatenOverlap",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Groove",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Magnetic",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Clip"
+    ],
+    "Enumeration code list": [
+        "DIRE",
+        "QUIC",
+        "OVLP",
+        "GROO",
+        "MANG",
+        "CLIP"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/MoldClampingSystem",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

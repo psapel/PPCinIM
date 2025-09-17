@@ -1,0 +1,33 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumPersonStatus",
+    "preferred_name": "person status",
+    "synonymous_name": {},
+    "short_name": "@STPE",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Idle",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Blocked",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Pause",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Vacation",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/NonWorkingTime"
+    ],
+    "Enumeration code list": [
+        "IDLE",
+        "BLOC",
+        "PAUS",
+        "VAC",
+        "NWT"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/PPC/1/1/Status",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/Part",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

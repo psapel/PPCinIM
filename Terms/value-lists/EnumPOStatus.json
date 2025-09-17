@@ -1,0 +1,43 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumPOStatus",
+    "preferred_name": "production order status",
+    "synonymous_name": {},
+    "short_name": "@STPO",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Released",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/MaterialAvailabilityNotChecked",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/MaterialNotAvailable",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/MaterialConfirmed",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/ProductionDocumentsFetched",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/GoodsMovementOccured",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/PartlyConfirmed",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/FullyConfirmed",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/PartlyDelivered",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/FullyDelivered"
+    ],
+    "Enumeration code list": [
+        "RLSD",
+        "MANC",
+        "MANA",
+        "MACF",
+        "DOC",
+        "GDMV",
+        "PTCF",
+        "FUCF",
+        "PTDL",
+        "FUDL"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/PPC/1/1/PoStatus",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/ProductionOrder",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

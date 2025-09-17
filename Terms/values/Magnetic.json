@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/Magnetic",
+    "preferred_name": "Magnetic",
+    "synonymous_name": {},
+    "short_name": "@MANG",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "MANG",
+    "definition": "When using magnetic quick clamping systems, the clamping platens of the clamping unit remain free of any superstructures, apart from the magnetic platens. This means that the entire clamping surfaces are available",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Spritzgießwerkzeuge : Auslegung, Bau, Anwendung , 7. ed, 2018, ISBN: 9783446453906",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumMoldClampingSystem",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

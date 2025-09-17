@@ -1,0 +1,25 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/Verification",
+    "preferred_name": "verification",
+    "synonymous_name": {},
+    "short_name": "@VERY",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "VERY",
+    "definition": "The part/material is under verification after construction, addition, or due to a change request.",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/part",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/batch",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/billOfMaterial",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/BOMPosition"
+    ],
+    "Enumeration code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumAssetStatus",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

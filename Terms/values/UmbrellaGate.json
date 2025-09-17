@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/UmbrellaGate",
+    "preferred_name": "Umbrella gate",
+    "synonymous_name": {},
+    "short_name": "@UMBR",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "UMBR",
+    "definition": "The umbrella gate is mostly used for molds with a single cavity. For the injection of annular parts with unilateral core storage, the umbrella gate is used",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Understanding injection molds, 2 ed., 2020, ISBN: 9781569908440",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumTypeOfGate",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

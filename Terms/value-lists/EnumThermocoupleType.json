@@ -1,0 +1,40 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumThermocoupleType",
+    "preferred_name": "thermocouple type",
+    "synonymous_name": {},
+    "short_name": "@TYTC",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/TypeE",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TypeJL",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TypeK",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TypeN",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TypeT",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TypePT100",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TypeOther"
+    ],
+    "Enumeration code list": [
+        "E",
+        "JL",
+        "K",
+        "N",
+        "T",
+        "PT",
+        "OTHE"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/ThermocoupleType",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/TemperatureControlDevice",
+        "http://www.iop.rwth-aachen.de/IM/1/1/HotRunnerDevice"
+    ],
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

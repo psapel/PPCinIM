@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/ContiniousPressurePneumatic",
+    "preferred_name": "continious pressure-pneumatic",
+    "synonymous_name": {},
+    "short_name": "@COPP",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "COPP",
+    "definition": "In the pressure conveying system, the material is fed centrally into a strong air stream and transported to the desired location. In general, this system is best suited for conveying from one feed point to various consumers with large throughput quantities. In this case, the material can be transported well over long distances. The conveying process is continous.",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Handbuch Spritzgießen, 2 ed., 2004, ISBN: 9783446440982",
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/conveyor",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumConvType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

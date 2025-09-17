@@ -1,0 +1,37 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumWorkdays",
+    "preferred_name": "workdays",
+    "synonymous_name": {},
+    "short_name": "@DAYS",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Monday",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Tuesday",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Wednesday",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Thursday",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Friday",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Saturday",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Sunday"
+    ],
+    "Enumeration code list": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/PPC/1/1/Workdays",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/ShiftCalendar",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

@@ -1,0 +1,23 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/Local",
+    "preferred_name": "Local",
+    "synonymous_name": {},
+    "short_name": "@LOCA",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "LOCA",
+    "definition": "Communication integrated in the local control system (local input)",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "EUROMAP 82.1",
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TemperatureControlDevice"
+    ],
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumCommunicationProtocolType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

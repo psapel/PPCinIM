@@ -1,0 +1,38 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumCommunicationProtocolType",
+    "preferred_name": "communication protocol type",
+    "synonymous_name": {},
+    "short_name": "@TYCO",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/Local",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Profibus",
+        "http://www.iop.rwth-aachen.de/IM/1/1/OPCUA",
+        "http://www.iop.rwth-aachen.de/IM/1/1/I2C",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Can",
+        "http://www.iop.rwth-aachen.de/IM/1/1/OtherProtocol"
+    ],
+    "Enumeration code list": [
+        "LOCA",
+        "PROF",
+        "OPC",
+        "I2C",
+        "CAN",
+        "OTHE"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/CommunicationProtocolType",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+        "http://www.iop.rwth-aachen.de/IM/1/1/TemperatureControlDevice"
+    ],
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

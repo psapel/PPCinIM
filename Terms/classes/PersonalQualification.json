@@ -1,0 +1,25 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/PersonalQualification",
+    "preferred_name": "personal qualification",
+    "synonymous_name": "operator qualification",
+    "short_name": "@PRSQ",
+    "version_number": "1",
+    "revision_number": "1",
+    "class_type": {},
+    "definition": "Skill of a person to execute operations or handle machines .",
+    "source_document_of_definition": "<own definition>",
+    "note": {},
+    "remark": {},
+    "Superclass": {},
+    "Higher level classes": {},
+    "properties": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/MachineSkill",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/OperationSkill"
+    ],
+    "Inherited properties": {},
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

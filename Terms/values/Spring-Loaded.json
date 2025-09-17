@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/Spring-Loaded",
+    "preferred_name": "Spring-loaded",
+    "synonymous_name": {},
+    "short_name": "@SRNG",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "SRNG",
+    "definition": "Spring ejectors are also purchased parts but belong to the special ejector category. They are used for smaller undercuts near the parting line. The plastic parts for which these ejectors can be used tend to be flat or low",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Spritzgießwerkzeuge für Einsteiger, 3 ed., 2020, ISBN: 9783446467651",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumEjectorType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

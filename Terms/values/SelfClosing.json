@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/SelfClosing",
+    "preferred_name": "Self closing",
+    "synonymous_name": {},
+    "short_name": "@SELF",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "SELF",
+    "definition": "A quick coupler that is self closing",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/TemperatureControlDevice",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumTypeOfQuickCoupler",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

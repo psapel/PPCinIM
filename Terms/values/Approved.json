@@ -1,0 +1,25 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/Approved",
+    "preferred_name": "approved",
+    "synonymous_name": {},
+    "short_name": "@APPR",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "APPR",
+    "definition": "The part/material is approved. A manufacturing is allowed.",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/part",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/batch",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/billOfMaterial",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/BOMPosition"
+    ],
+    "Enumeration code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumAssetStatus",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/BankHoliday",
+    "preferred_name": "bank holiday",
+    "synonymous_name": {},
+    "short_name": "@BKHL",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "BKHL",
+    "definition": "Shift Calender that specifies the bank holidays. The production is closed or the labor get addition to the salary.",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/ShiftCalendar",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumShiftType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/SandwichInjectionMolding",
+    "preferred_name": "Sandwich injection molding",
+    "synonymous_name": {},
+    "short_name": "@SAND",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "SAND",
+    "definition": "Two-component injection molding enables the production of molded plastic parts with a three-layer structure. Two components are injected into each other in such a way that the core component is completely enclosed by a skin component in the finished part.",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Handbuch Spritzgießen, 2 ed., 2004, ISBN: 9783446440982",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumSpecialTechnology",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

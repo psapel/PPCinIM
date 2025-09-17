@@ -1,0 +1,33 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/ShiftCalendar",
+    "preferred_name": "shift calendar",
+    "synonymous_name": {},
+    "short_name": "@SHFT",
+    "version_number": "1",
+    "revision_number": "1",
+    "class_type": {},
+    "definition": "Contains the start, finish, and break times of a shift.",
+    "source_document_of_definition": "Production Planning and Control with SAP ERP, 2013, ISBN: 9781592298686",
+    "note": {},
+    "remark": {},
+    "Superclass": {},
+    "Higher level classes": {},
+    "properties": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/ShiftId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/EntryType",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/StartRule",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/RecurrenceRule",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Workdays",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/ValidTill",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/StartTime",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/EndTime",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/PauseTime",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/GrossCapacity"
+    ],
+    "Inherited properties": {},
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

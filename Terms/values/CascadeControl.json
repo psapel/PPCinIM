@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/CascadeControl",
+    "preferred_name": "Cascade control",
+    "synonymous_name": {},
+    "short_name": "@CASC",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "CASC",
+    "definition": "Cascade injection molding, also called sequential injection molding, was originally developed to avoid weld lines, which are otherwise unavoidable with multiple gating. In multiple gating, shut-off nozzles are used in the mold, which can be opened one after the other during injection.",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Handbuch Spritzgießen, 2 ed., 2004, ISBN: 9783446440982",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumSpecialTechnology",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

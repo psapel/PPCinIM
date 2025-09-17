@@ -1,0 +1,35 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumDeviceType",
+    "preferred_name": "device type",
+    "synonymous_name": {},
+    "short_name": "@TYDE",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/Demolding",
+        "http://www.iop.rwth-aachen.de/IM/1/1/InsertSupply",
+        "http://www.iop.rwth-aachen.de/IM/1/1/SpureRemoval",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Palletizing",
+        "http://www.iop.rwth-aachen.de/IM/1/1/WasteSeperation",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Orientation"
+    ],
+    "Enumeration code list": [
+        "DEMO",
+        "INSU",
+        "SRVL",
+        "PLLT",
+        "WSEP",
+        "ORNT"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/PPC/1/1/DeviceType",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/HandlingDevice",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

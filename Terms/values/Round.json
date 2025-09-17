@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/Round",
+    "preferred_name": "Round",
+    "synonymous_name": {},
+    "short_name": "@ROUN",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "ROUN",
+    "definition": "The round ejector is the most commonly used ejector. It is installed in the injection mold as a standard or purchased part. The ejectors are ground very precisely in diameter",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Spritzgießwerkzeuge für Einsteiger, 3 ed., 2020, ISBN: 9783446467651",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumEjectorType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

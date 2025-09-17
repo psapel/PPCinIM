@@ -1,0 +1,35 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumSDStatus",
+    "preferred_name": "sales document status",
+    "synonymous_name": {},
+    "short_name": "@STSD",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Open",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Confirmed",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/InProgress",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Cancelled",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/PartlyDelivered",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Delivered"
+    ],
+    "Enumeration code list": [
+        "OPEN",
+        "CONF",
+        "PRGR",
+        "CANC",
+        "PDLV",
+        "DLVD"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/PPC/1/1/SdStatus",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/SalesDocument",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

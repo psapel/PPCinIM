@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/HotRunner",
+    "preferred_name": "Hot runner",
+    "synonymous_name": {},
+    "short_name": "@HOTR",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "HOTR",
+    "definition": "The hot runner is theoretically an extension of the injection unit. The hot runner should keep the liquid molten up into the mold cavity. It meets this requirement by guiding and heating the molten plastic until it reaches the mold cavity, with virtually no temperature and pressure losses",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Understanding injection molds, 2 ed., 2020, ISBN: 9781569908440",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/TemperatureControlDevice",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumChannelType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

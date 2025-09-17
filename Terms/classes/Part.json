@@ -1,0 +1,30 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/Part",
+    "preferred_name": "part",
+    "synonymous_name": "product",
+    "short_name": "@PART",
+    "version_number": "1",
+    "revision_number": "1",
+    "class_type": {},
+    "definition": "Desired output or by-product of the processes of an enterprise.",
+    "source_document_of_definition": "IEC 62264-1",
+    "note": "A product can be an intermediate product or end product from a business perspective.",
+    "remark": {},
+    "Superclass": {},
+    "Higher level classes": {},
+    "properties": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/PartId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Name",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/AlternativeName",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/BaseQuantityUnit",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/NetWeight",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/IsCoProduct",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Status"
+    ],
+    "Inherited properties": {},
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

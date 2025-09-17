@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/TwoPlatenMold",
+    "preferred_name": "Two platen mold",
+    "synonymous_name": {},
+    "short_name": "@TWO",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "TWO",
+    "definition": "An injection mold generally consists of two mold halves: a nozzle side and an ejector side",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Understanding injection molds, 2 ed., 2020, ISBN: 9781569908440",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumMoldType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

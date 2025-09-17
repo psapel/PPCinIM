@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/SprueGate",
+    "preferred_name": "Sprue gate",
+    "synonymous_name": {},
+    "short_name": "@SPRU",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "SPRU",
+    "definition": "The sprue gate is an advancement of the direct gate. The sprue gate is used for multi-cavity molds that do not make great demands on the surface of the molded parts. The molded parts are usually used with the resulting cavity without further rework",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Understanding injection molds, 2 ed., 2020, ISBN: 9781569908440",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumTypeOfGate",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

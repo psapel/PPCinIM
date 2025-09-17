@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/ColdRunner",
+    "preferred_name": "Cold runner",
+    "synonymous_name": {},
+    "short_name": "@COLD",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "COLD",
+    "definition": "In cold runner molds, the injection molded part and the sprue are cooled in the mold. They are ejected together in each cycle",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Understanding injection molds, 2 ed., 2020, ISBN: 9781569908440",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/TemperatureControlDevice",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumChannelType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

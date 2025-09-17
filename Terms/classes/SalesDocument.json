@@ -1,0 +1,33 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/SalesDocument",
+    "preferred_name": "sales document",
+    "synonymous_name": {},
+    "short_name": "@SDOC",
+    "version_number": "1",
+    "revision_number": "1",
+    "class_type": {},
+    "definition": "Sales document as dummy class provide properties that are the same for all sales documents.",
+    "source_document_of_definition": "<own definition>",
+    "note": {},
+    "remark": {},
+    "Superclass": {},
+    "Higher level classes": {},
+    "properties": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/PartId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Quantity",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/BaseQuantityUnit",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/CustomerId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/DesiredDueDate",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Destination",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/TechnicalAttributes",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/MaxSalesPrice",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Priority",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/SdStatus"
+    ],
+    "Inherited properties": {},
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

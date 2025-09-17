@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/ProductionDocumentsFetched",
+    "preferred_name": "production documents fetched",
+    "synonymous_name": {},
+    "short_name": "@DOC",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "DOC",
+    "definition": "The production documents were fetched.",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Logistikprozesse mit SAP, 3 ed., 2011, ISBN: 9783834881199",
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/productionOrder",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumPOStatus",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/Released",
+    "preferred_name": "released",
+    "synonymous_name": {},
+    "short_name": "@RLSD",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "RLSD",
+    "definition": "The production order was released and is ready for production",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Logistikprozesse mit SAP, 3 ed., 2011, ISBN: 9783834881199",
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/productionOrder",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/PPC/1/1/EnumPOStatus",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/DiscontiniousSuction",
+    "preferred_name": "discontinious suction",
+    "synonymous_name": {},
+    "short_name": "@DISU",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "DISU",
+    "definition": "In a vacuum conveying system, the free-flowing raw material is transported to the required to the desired points of consumption. This system is often used because of its simple design. The conveying process is discontinous.",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Handbuch Spritzgießen, 2 ed., 2004, ISBN: 9783446440982",
+    "definition_class": "http://www.iop.rwth-aachen.de/PPC/1/1/conveyor",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumConvType",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/TunnelGate",
+    "preferred_name": "Tunnel gate",
+    "synonymous_name": {},
+    "short_name": "@TUNN",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "TUNN",
+    "definition": "The tunnel gate is so called because it cuts the molded part through a tunnel-like tube. This system includes gate systems that mechanically separate from the molded part when opening the mold. This means that molded parts and sprues that are no longer connected to one another emerge from the mold",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Understanding injection molds, 2 ed., 2020, ISBN: 9781569908440",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumTypeOfGate",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

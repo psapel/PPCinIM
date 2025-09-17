@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/Linear",
+    "preferred_name": "Linear",
+    "synonymous_name": {},
+    "short_name": "@LINE",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "LINE",
+    "definition": {},
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumCorePullerMounting",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

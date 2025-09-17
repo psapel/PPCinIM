@@ -1,0 +1,38 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/PPC/1/1/SalesOrder",
+    "preferred_name": "sales order",
+    "synonymous_name": "customer order",
+    "short_name": "@SO",
+    "version_number": "1",
+    "revision_number": "1",
+    "class_type": {},
+    "definition": "An order from a customer for a particular product or a number of products. It is often referred to as an actual demand to distinguish it from a forecasted demand.",
+    "source_document_of_definition": "APICS Dictionary, 13 ed., 2010, ISBN: 9780615394411",
+    "note": {},
+    "remark": {},
+    "Superclass": "http://www.iop.rwth-aachen.de/PPC/1/1/Inquiry",
+    "Higher level classes": "http://www.iop.rwth-aachen.de/PPC/1/1/SalesDocument",
+    "properties": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/SalesOrderId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/PlannedDueDate",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/SalesPricePlanned"
+    ],
+    "Inherited properties": [
+        "http://www.iop.rwth-aachen.de/PPC/1/1/InquiryId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/PartId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Quantity",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/BaseQuantityUnit",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/CustomerId",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/DesiredDueDate",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Destination",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/TechnicalAttributes",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/MaxSalesPrice",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/Priority",
+        "http://www.iop.rwth-aachen.de/PPC/1/1/SdStatus"
+    ],
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

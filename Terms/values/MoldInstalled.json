@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/MoldInstalled",
+    "preferred_name": "mold installed",
+    "synonymous_name": {},
+    "short_name": "@MINS",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "MINS",
+    "definition": "The mould is installed and ready for production.",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "EUROMAP 83",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/mold",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumMoldStatus",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

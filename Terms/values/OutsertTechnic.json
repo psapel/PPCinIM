@@ -1,0 +1,20 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/OutsertTechnic",
+    "preferred_name": "Outsert technic",
+    "synonymous_name": {},
+    "short_name": "@OUTS",
+    "version_number": "1",
+    "revision_number": "1",
+    "symbol": "OUTS",
+    "definition": "Plastic functional parts on supports made of other plastics, metal, glass, ceramics and other materials",
+    "note": {},
+    "remark": {},
+    "source_document_of_definition": "Handbuch Spritzgießen, 2 ed., 2004, ISBN: 9783446440982",
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/InjectionMoldingMachine",
+    "Enumeration code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumSpecialTechnology",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}

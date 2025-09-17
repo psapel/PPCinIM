@@ -1,0 +1,29 @@
+{
+    "code": "http://www.iop.rwth-aachen.de/IM/1/1/EnumPartOrientation",
+    "preferred_name": "part orientation",
+    "synonymous_name": {},
+    "short_name": "@PAOR",
+    "version_number": "1",
+    "revision_number": "1",
+    "Enumerated list of terms": [
+        "http://www.iop.rwth-aachen.de/IM/1/1/Vertically",
+        "http://www.iop.rwth-aachen.de/IM/1/1/Horizontally",
+        "http://www.iop.rwth-aachen.de/IM/1/1/NoPartOrientation"
+    ],
+    "Enumeration code list": [
+        "VERT",
+        "HORI",
+        "NOOR"
+    ],
+    "Applicable properties": "http://www.iop.rwth-aachen.de/IM/1/1/PartOrientation",
+    "definition": {},
+    "source_document_of_definition": {},
+    "note": {},
+    "remark": {},
+    "definition_class": "http://www.iop.rwth-aachen.de/IM/1/1/Mold",
+    "status_level": "Proposal",
+    "version_released_on": "13.09.2025",
+    "revision_released_on": {},
+    "obsolete_date": {},
+    "version_initiated_on": {}
+}
