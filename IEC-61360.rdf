@@ -1,0 +1,667 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/sapel/ontologies/2022/3/untitled-ontology-35#"
+     xml:base="http://www.semanticweb.org/sapel/ontologies/2022/3/untitled-ontology-35"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.iop.rwth-aachen.de/IEC-61360">
+        <owl:versionIRI rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/"/>
+        <rdfs:comment>An ontology that includes classes and properties regarding IEC 61360 - Definition of Data Element Types.
+
+Further details are published in: &quot;Towards an Ontology-Based Dictionary for Production Planning and Control in the Domain of Injection Molding&quot;
+
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany&apos;s Excellence Strategy – EXC-2023 Internet of Production – 390621612.</rdfs:comment>
+        <rdfs:isDefinedBy>Patrick Sapel, M.Sc.
+Univ.-Prof. Dr.-Ing. Christian Hopmann
+
+Institute for Plastis Processing (IKV) at RWTH Aachen University
+Seffenter Weg 201
+52074 Aachen</rdfs:isDefinedBy>
+        <owl:versionInfo>V. 1.0 - 22.05.2022</owl:versionInfo>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/IdentifyingAttribute -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IdentifyingAttribute">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasAlternativeUnitOfMeasure -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasAlternativeUnitOfMeasure">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasCodeOfAlternativeUnit -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasCodeOfAlternativeUnit">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasCodeOfListOfUnits -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasCodeOfListOfUnits">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasCodeOfUnit -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasCodeOfUnit">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasDataElementTypeClass -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasDataElementTypeClass">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasObsoleteDate -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasObsoleteDate">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasPreferredLetterSymbol -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasPreferredLetterSymbol">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasRevisionReleasedOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasRevisionReleasedOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasShortName -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasShortName">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IdentifyingAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasSourceDocumentOfDefinition -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasSourceDocumentOfDefinition">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasStatusLevel -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasStatusLevel">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasSynonymousLetterSymbol -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasSynonymousLetterSymbol">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasSynonymousName -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasSynonymousName">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IdentifyingAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasUnitOfMeasure -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasUnitOfMeasure">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasVersionInitiatedOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasVersionInitiatedOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasVersionReleasedOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasVersionReleasedOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue -->
+
+    <owl:DatatypeProperty rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue">
+        <rdfs:subPropertyOf rdf:resource="http://www.iop.rwth-aachen.de/IM/1/1/IEC-61360-Property"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IM/1/1/IEC-61360-Property -->
+
+    <owl:DatatypeProperty rdf:about="http://www.iop.rwth-aachen.de/IM/1/1/IEC-61360-Property"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property"/>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/IdentifyingAttribute -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IdentifyingAttribute">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IEC-61360-Property"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/alternative_unit_of_measure -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/alternative_unit_of_measure">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/code_of_alternative_unit -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/code_of_alternative_unit">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/code_of_list_of_units -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/code_of_list_of_units">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/code_of_unit -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/code_of_unit">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/data_element_type_class -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/data_element_type_class">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/definition -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/definition">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/note -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/note">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/obsolete_date -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/obsolete_date">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/preferred_letter_symbol -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/preferred_letter_symbol">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/remark -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/remark">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/revision_released_on -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/revision_released_on">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/short_name -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/short_name">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IdentifyingAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointWith rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/synonymous_name"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/source_document_of_definition -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/source_document_of_definition">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/status_level -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/status_level">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Draft"/>
+                    <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Norm"/>
+                    <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Proposal"/>
+                    <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Rejected"/>
+                    <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Replaced"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/synonymous_letter_symbol -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/synonymous_letter_symbol">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/synonymous_name -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/synonymous_name">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IdentifyingAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/unit_of_measure -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/unit_of_measure">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/version_initiated_on -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/version_initiated_on">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/version_released_on -->
+
+    <owl:Class rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/version_released_on">
+        <rdfs:subClassOf rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/hasValue"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/Draft -->
+
+    <owl:NamedIndividual rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Draft"/>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/Norm -->
+
+    <owl:NamedIndividual rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Norm"/>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/Proposal -->
+
+    <owl:NamedIndividual rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Proposal"/>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/Rejected -->
+
+    <owl:NamedIndividual rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Rejected">
+        <rdf:type rdf:resource="http://www.iop.rwth-aachen.de/IEC-61360/1/1/status_level"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.iop.rwth-aachen.de/IEC-61360/1/1/Replaced -->
+
+    <owl:NamedIndividual rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/Replaced"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/AdministrativeAttribute"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/IdentifyingAttribute"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/SemanticAttribute"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/ValueAttribute"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/alternative_unit_of_measure"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/code_of_alternative_unit"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/code_of_list_of_units"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/code_of_unit"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/unit_of_measure"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/data_element_type_class"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/definition"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/note"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/preferred_letter_symbol"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/remark"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/source_document_of_definition"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/synonymous_letter_symbol"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/obsolete_date"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/revision_released_on"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/status_level"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/version_initiated_on"/>
+            <rdf:Description rdf:about="http://www.iop.rwth-aachen.de/IEC-61360/1/1/version_released_on"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
